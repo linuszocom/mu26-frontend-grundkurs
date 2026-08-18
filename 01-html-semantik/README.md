@@ -1,4 +1,4 @@
-# Vecka 01 — HTML-grunder & semantisk HTML
+# 01 — HTML-grunder & semantisk HTML
 
 > **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något till din dator för att läsa – klicka bara på länkarna nedan direkt i webbläsaren för att öppna guider och övningar.
 
