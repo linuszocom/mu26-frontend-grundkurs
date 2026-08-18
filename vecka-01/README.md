@@ -1,27 +1,25 @@
 # Vecka 01 — HTML-grunder & semantisk HTML
 
-Veckomaterial du kan göra i egen takt. Allt du behöver finns i den här mappen.
+**Den här mappen täcker:** HTML & semantik, **måndag 24 augusti**.
 
 Tänk **butik**: HTML är vad som ligger framme och vilken avdelning det tillhör. Semantik = hyllskyltar. Metod när du tvekar — inte gissa `div`.
 
-> **Så använder du detta material**
->
-> - **Slipar målsvar:** Läs teoriguiden och öva tills du kan säga målsvaren högt — det är samma nivå som README-frågor i examinationen.
-> - **Tar veckan från noll:** Gå i ordning 01 → 05. Följ metoderna steg för steg och gör övningarna.
-> - **AI-träning (04):** Tränar ägarskap — inte att klistra in en “färdig” sida.
+Kalenderveckan har fler pass. Git (onsdag) och CSS (fredag) har **inte** filer här — de publiceras i en senare mapp.
 
 | | |
 |--|--|
-| **Tidbudget** | ca 5–8 h |
+| **Tidbudget** | ca 5–8 h *(heltid / från noll)* |
 | **Format** | Text + kod + enkla diagram (Mermaid) |
 
-## Ordning
+## Veckokarta
 
-1. [01 — Teoriguide](./01-teoriguide.md) (~1–1,5 h)  
-2. [02 — Visuellt](./02-visuell.md) (~20–30 min)  
-3. [03 — Övningar](./03-ovningar.md) (~2,5–4 h)  
-4. [04 — AI-träning](./04-ai-traning.md) (~45–75 min)  
-5. [05 — Självtest](./05-sjalvtest.md) (~30–45 min)  
+| När (från HUR) | Före passet (flipped/setup) | Efter passet — eller från noll (01–05) |
+|----------------|-----------------------------|----------------------------------------|
+| **Mån 24/8 — HTML & semantik** | Inget att läsa. Ha VS Code installerat. | [01 — Teoriguide](./01-teoriguide.md) → [02 — Visuellt](./02-visuell.md) → [03 — Övningar](./03-ovningar.md) → [04 — AI-träning](./04-ai-traning.md) → [05 — Självtest](./05-sjalvtest.md) |
+| **Ons 26/8 — Git & GitHub** | Skapa konto på [github.com](https://github.com) om du saknar ett. | Publiceras senare (egen mapp) |
+| **Fre 28/8 — CSS-grunder** | Ha en mapp med `index.html` öppen i VS Code. | Publiceras senare (egen mapp) |
+| **Heltid / från noll (01→05)** | — | Gör hela kedjan för måndagens pass (ca 5–8 h). |
+| **Kan redan grunden (03→05)** | — | [03](./03-ovningar.md) → [04](./04-ai-traning.md) → [05](./05-sjalvtest.md). Teoriguiden bara där du är osäker. |
 
 ## Efter det här ska du kunna
 
@@ -45,3 +43,5 @@ Det här är grunden till **Examination 1 (Eventsidan)** och teorifrågan i READ
 ## När du är klar
 
 Du ska kunna återge målsvaren med egna ord och peka på tre taggar i *din* kod och säga varför.
+
+Nästa publicerade mapp täcker Git och CSS.
