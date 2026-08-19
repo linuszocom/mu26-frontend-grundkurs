@@ -9,8 +9,8 @@
 | Dag / Tillfälle | Före passet (Förberedelse) | Live i Teams | Efter passet (Eget arbete) |
 | :--- | :--- | :--- | :--- |
 | **Mån 24/8 — HTML** | Inget att läsa. Ha VS Code installerat. | Skelett, grundtaggar & semantik | Välj ditt spår nedan (~3–5 h) |
-| **Ons 26/8 — Git** | Skapa konto på github.com | Versionshantering & GitHub | *Publiceras i nästa del* |
-| **Fre 28/8 — CSS** | Ha en HTML-fil redo i VS Code | Första stylingen & selektorer | *Publiceras i nästa del* |
+| **Ons 26/8 — Git** | Skapa konto på github.com | Versionshantering & GitHub | [02-git-github](../02-git-github/) |
+| **Fre 28/8 — CSS** | Ha en HTML-fil redo i VS Code | Första stylingen & selektorer | [03-css-box-model](../03-css-box-model/) |
 
 ---
 
@@ -57,4 +57,4 @@ När veckan är klar ska du kunna återge dessa två principer med egna ord:
 Det här lägger grunden till **Examination 1 (Eventsidan)** och teorifrågan i README: *Vad innebär semantisk HTML och varför har ni använt det?* Spara dina formuleringar från självtestet.
 
 ## 🏁 Nästa steg
-När du är klar med veckans mål publiceras nästa del som täcker Git & GitHub samt CSS-grunder.
+När du är klar med HTML-målet: [02-git-github](../02-git-github/) (ons 26/8), sedan [03-css-box-model](../03-css-box-model/) (fre 28/8).

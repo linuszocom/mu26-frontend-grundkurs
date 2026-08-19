@@ -45,4 +45,4 @@ Om dina svar ligger nära facit, övningarna är gjorda, och du kan peka i egen 
 - [ ] Målsvar metod — egna ord, högt  
 - [ ] Tre taggar i din kod med *varför*
 
-Då har du landat veckans mål. Nästa veckomaterial: Git & CSS — se `studentmaterial/vecka-02/` när det finns.
+Då har du landat HTML-målet. Nästa paket: Git — se [02-git-github](../02-git-github/).

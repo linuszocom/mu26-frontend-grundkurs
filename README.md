@@ -1,22 +1,24 @@
-# Grundläggande frontend-programmering — MU26
+# Grundläggande Frontend-programmering — MU26
 
-Här ligger veckomaterialet för kursen. Moodle länkar hit. Gör en veckomapp i taget.
+Moodle länkar till **veckomappen** för den aktuella kalenderveckan. Där inne: passens mappar med körschema (före / live / efter) och tre spår.
+
+> **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något för att läsa — klicka på länkarna i webbläsaren.
 
 ## Så använder du materialet
 
-| Situation | Gör så här |
-| :--- | :--- |
-| **Du var på passet** | Efteråt: Gör [03 Övningar](./01-html-semantik/03-ovningar.md) → [04 AI-träning](./01-html-semantik/04-ai-traning.md) → [05 Självtest](./01-html-semantik/05-sjalvtest.md). Använd teoriguiden bara om du tvekar. |
-| **Från noll / missade passet** | Gå igenom hela veckomappen i nummerordning (01 → 05). |
-| **Kort om tid** | Läs [01 Teoriguide](./01-html-semantik/01-teoriguide.md) och testa dig på frågorna i [05 Självtest](./01-html-semantik/05-sjalvtest.md) utan facit. |
-
-Varje veckomapp har en **Veckokarta** med instruktioner för vad du gör före och efter våra pass.
+| Situation | Gör |
+|-----------|-----|
+| **Var på passet** | Efteråt: **03 övningar → AI → självtest** i **den mapp passet hör till**. Teoriguiden bara där du är osäker. |
+| **Missade passet / från noll** | Hela passmappen i nummerordning (**01 → 05**). |
+| **Kort om tid** | Teoriguiden + självtestets frågor (utan facit först). |
 
 ## Kurskarta
 
-| Mapp | Vad den täcker | Schema | Status |
-| :--- | :--- | :--- | :--- |
-| [01-html-semantik](./01-html-semantik/) | HTML & semantik | Mån 24/8 | Klar |
-| `vecka-02` | Git & GitHub, CSS Grunder, Hero-sektion | Ons 26/8 → | Publiceras löpande |
+### [Vecka 35](./vecka-35/) — 24–28/8
+| Mapp | Pass |
+|------|------|
+| [01-html-semantik](./vecka-35/01-html-semantik/) | mån 24/8 HTML |
+| [02-git-github](./vecka-35/02-git-github/) | ons 26/8 Git |
+| [03-css-box-model](./vecka-35/03-css-box-model/) | fre 28/8 CSS |
 
-*Examination 1 (Eventsidan) bygger på HTML från denna vecka samt Git och CSS från kommande mappar.*
+Fler veckor läggs upp löpande.
