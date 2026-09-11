@@ -53,7 +53,7 @@ Mapparna publiceras löpande inför varje ny vecka.
 * **Vecka 37 — Handledning & Examination 1 (Eventsidan)** *(Inlämning fre 11/9)*
 
 ### Block 2 — JavaScript, React & Examination 2
-* **Vecka 38 — JavaScript-grunder & React-intro** *(Publiceras fre 11/9)*
+* **[Vecka 38 — JavaScript-grunder & React-intro](./vecka-38/)** (JS-syntax, Vite/React, JSX & props)
 * **Vecka 39 — State & Dynamiska listor** *(Publiceras fre 18/9)*
 * **Vecka 40 — Applogik & Examination 2-start** *(Publiceras fre 25/9)*
 * **Vecka 41 — Handledning & Examination 2 (ToDo App)** *(Muntlig redovisning)*
