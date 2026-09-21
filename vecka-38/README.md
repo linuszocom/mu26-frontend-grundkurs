@@ -72,4 +72,4 @@ När veckan är slut ska du ha bockat av:
 - [ ] Jag kan skapa en funktionskomponent och skicka data med props
 - [ ] Jag kan målsvaren för **variabel/funktion**, **komponent** och **props** utantill
 
-**Nästa droppe (fre 18/9):** [Vecka 39](../vecka-39/) — useState, events (lägg till todo), map & filter.
+**Nästa steg:** Fortsätt i [Vecka 39](../vecka-39/) — useState, events (lägg till), map & filter.
