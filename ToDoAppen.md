@@ -69,6 +69,14 @@ Spela in en kort skärminspelning (**3–5 minuter**) via Teams där du delar VS
 
 ---
 
+### Inlämning
+Inlämningen sker via moodle, under vecka 41 har ni länk till inlämningssidan, där lämnar ni en länk (url) till erat repo.
+Länk till den muntliga redovisningen ska ligga i eran README i ert repo.
+
+Senast inlämningsdag är Fredag 9:e oktober.
+
+---
+
 ### Betygskriterier
 
 #### Godkänt (G)
