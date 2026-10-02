@@ -1,4 +1,4 @@
-# Individuell examination 2: ToDo-appen
+# Individuell examination: ToDo-appen
 
 Du ska på egen hand bygga en fungerande och interaktiv ToDo-applikation i React. Projektet ska lämnas in via GitHub och redovisas muntligt via en kort video.
 
