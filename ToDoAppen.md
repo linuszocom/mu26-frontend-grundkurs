@@ -65,6 +65,8 @@ Spela in en kort skärminspelning (**3–5 minuter**) via Teams där du delar VS
 1. **Kort demo (ca 30–60 sek):** Visa snabbt i webbläsaren att appen fungerar (lägg till, bocka av och ta bort).
 2. **Källkoden:** Öppna källkoden i VS Code. Välj ut **2–3 funktioner/händelser** (t.ex. hur en uppgift skapas, hur status uppdateras eller hur en raderas) och förklara vad som händer med markören pekande på koden.
 
+🔗 [Instruktion för muntlig redovisning](instruktion_redovisning.md)
+
 ---
 
 ### Betygskriterier
