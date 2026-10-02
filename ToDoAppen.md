@@ -74,7 +74,7 @@ Spela in en kort skärminspelning (**3–5 minuter**) via Teams där du delar VS
 #### Godkänt (G)
 * Appen uppfyller kraven i specifikationen och fungerar utan krascher.
 * Repot är publikt med minst 5 commits och en ifylld `README.md`.
-* **Muntligt (Vad koden gör):** Du visar i din video hur dina utvalda funktioner hänger ihop med knapptrycken och hur datan uppdaterar gränssnittet.
+* **Muntligt (Vad koden gör):** Du visar i din video hur dina utvalda funktioner hänger ihop.
 
 #### Väl godkänt (VG)
 * Alla krav för Godkänt (G) är uppfyllda.
